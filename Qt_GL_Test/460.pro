@@ -1,4 +1,4 @@
-QT += core widgets
+QT += core widgets openglwidgets
 
 TARGET = 277
 TEMPLATE = app
